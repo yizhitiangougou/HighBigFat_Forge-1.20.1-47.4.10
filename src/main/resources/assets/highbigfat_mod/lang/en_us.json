@@ -1,0 +1,10 @@
+{
+  "itemGroup.highbigfat_mod": "HighBigFat",
+  "item.highbigfat_mod.dog_tag": "Dog Tag",
+  "highbigfat_mod.configuration.enableEnemySpawning": "Enable enemy spawning",
+  "highbigfat_mod.configuration.enableEnemySpawning.tooltip": "Master switch for HighBigFat threat-tier enemy natural spawning.",
+  "highbigfat_mod.configuration.dailyMeritCap": "Daily merit cap",
+  "highbigfat_mod.configuration.dailyMeritCap.tooltip": "Max merit from small kills per Minecraft day.",
+  "highbigfat_mod.configuration.enableRankSpawnGates": "Enable rank spawn gates",
+  "highbigfat_mod.configuration.enableRankSpawnGates.tooltip": "Higher threat tiers do not naturally spawn until the matching rank is reached."
+}

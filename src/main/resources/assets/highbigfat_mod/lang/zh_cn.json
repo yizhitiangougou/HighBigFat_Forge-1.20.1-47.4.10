@@ -1,0 +1,10 @@
+{
+  "itemGroup.highbigfat_mod": "HighBigFat",
+  "item.highbigfat_mod.dog_tag": "犬牌",
+  "highbigfat_mod.configuration.enableEnemySpawning": "启用敌军生成",
+  "highbigfat_mod.configuration.enableEnemySpawning.tooltip": "荒原扰敌分层敌军自然生成的总开关。",
+  "highbigfat_mod.configuration.dailyMeritCap": "每日功勋上限",
+  "highbigfat_mod.configuration.dailyMeritCap.tooltip": "每个游戏日内，小额击杀可获得的功勋上限。",
+  "highbigfat_mod.configuration.enableRankSpawnGates": "启用军衔锁刷怪",
+  "highbigfat_mod.configuration.enableRankSpawnGates.tooltip": "未达对应军衔时，更高档敌军不会自然生成。"
+}
